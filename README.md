@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hungkysu
+- 👋 Hi, I’m Hùng kỹ sư
 - 👀 I’m interested in Robot
 - 🌱 I’m currently learning Mechatronics in HUST
 - 💞️ I’m looking to collaborate on Joining Robocon 2024 or 2025 in Ha Noi
